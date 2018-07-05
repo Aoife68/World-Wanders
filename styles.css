@@ -518,6 +518,10 @@ footer {
   }
   
   /*Main Content*/
+   .main-content p{
+	text-align: center;
+   }
+   
   .main-content-image-grid {
     grid-gap: 2px;
     grid-template-columns: [col1-start] 330px;
@@ -553,7 +557,7 @@ footer {
 
     /*Footer*/
     footer {
-      height: 800px;
+      height: 900px;
     }
   
     .footer-flex {
