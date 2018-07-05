@@ -7,7 +7,6 @@
 const sliderImages = [
   "Pukaki3_Resized.jpg",
   "Bealey_Rezised_1370.jpg",
-  "Tekapo_Campsite2_Resized.jpg",
   "Bealey4_Resized.jpg",
   "Canyon_Resized.jpg",
   "Tekapo_Church2_Resized2.jpg",
@@ -15,6 +14,7 @@ const sliderImages = [
   "Bealey_Resized.jpg",
   "Waterfall_Resized.jpg",
   "Wanaka_Resized.jpg",
+  "Tekapo_Campsite2_Resized.jpg",
   "River2_Resized.jpg",
   "Franz_Josef_Glacier2_Resized.jpg"
 ];
