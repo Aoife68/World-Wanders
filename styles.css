@@ -148,7 +148,6 @@ body {
 .search-unit-grid {
   display: grid;
   display: -ms-grid;
-  display: -moz-inline-grid;
   grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
   -ms-grid-columns: 225px 2em 225px 2em 225px 2em 225px;
   grid-gap: 1em;
@@ -163,7 +162,6 @@ body {
 .search-btn-grid {
   display: grid;
   display: -ms-inline-grid;
-  display: -moz-inline-grid;
   grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
   -ms-grid-columns: 200px 1em 200px 1em 200px 1em 200px 1em 200px;
   grid-gap: 1em;
@@ -668,7 +666,7 @@ footer {
 
   .btn-search .btn {
     margin-left: 10px;
-    padding: 10px 90px;
+    padding: 10px 100px;
   }
 
   /*Mega Menu*/
@@ -755,7 +753,7 @@ footer {
 
   .btn-search .btn {
     margin-left: 10px;
-    padding: 10px 75px;
+    padding: 10px 80px;
   }
   /*Main Content*/
   .main-content-image-grid {
